@@ -1,0 +1,11 @@
+# Binarios y ejecutables
+*.exe
+*.out
+*.o
+*.obj
+
+# Entornos y configuración
+.vscode/
+.vs/
+*.pdb
+*.ilk
