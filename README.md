@@ -1,6 +1,6 @@
 # Caldero
 
-Implementación de una clase `Caldero` en C++ para preparar pociones paso a paso mediante encadenamiento de métodos.
+Implementación de una clase `Caldero` en C++ para preparar pociones mediante encadenamiento de métodos.
 
 ## Estructura del Proyecto
 
